@@ -6,9 +6,8 @@
 
 ---
 
-## 🇻🇪 Sobre Mí
+## Sobre Mí
 
-* **Ubicación:** Venezuela.
 * **Filosofía:** Siempre busco optimizar procesos y planificar soluciones con la mayor antelación posible. Soy una persona creativa, imaginativa, **MUY paciente** y respetuosa.
 * **Intereses:** Gran aficionado a los **videojuegos, manga/anime, películas y doramas**. Mis pasiones alimentan mi búsqueda constante de interfaces envolventes.
 
